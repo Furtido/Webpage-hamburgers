@@ -1,0 +1,1 @@
+This is a website for a food store that sells burgers and various items. A framework was used for the slider, and it is an activity inspired by the YouTuber Divcode.
